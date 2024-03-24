@@ -2,9 +2,9 @@
 Three complete IT / Cybersecurity resume for the following job roles: Systems Administration, SOC Analyst, &amp; Penetration Tester. If you like these examples then perhaps check out my full resume guide here: 
 
 You can download the docx versions of these examples from this repo or you can copy them from Google Docs using the links below:
-* [Template 1](https://docs.google.com/document/d/13qCetlrMUYGsPrODYLtEATtjfH37H4yN_LM6l1GbeYo/edit?usp=sharing)
-* [Template 2](https://docs.google.com/document/d/14eXB690y8zw6QD_RXbkeXuNjS1IhwcqkCyY0bH1MWHs/edit?usp=sharing)
-* [Template 3](https://docs.google.com/document/d/1sBM2sgOM4ZHq5hI5jiFRUbW3zQQDPgzSzT3ICS9NOHI/edit?usp=sharing)
+* [Example 1](https://docs.google.com/document/d/13qCetlrMUYGsPrODYLtEATtjfH37H4yN_LM6l1GbeYo/edit?usp=sharing)
+* [Example 2](https://docs.google.com/document/d/14eXB690y8zw6QD_RXbkeXuNjS1IhwcqkCyY0bH1MWHs/edit?usp=sharing)
+* [Example 3](https://docs.google.com/document/d/1sBM2sgOM4ZHq5hI5jiFRUbW3zQQDPgzSzT3ICS9NOHI/edit?usp=sharing)
 ### Example 1
 ![image](https://github.com/HiroNewf/Cybersec_resume_examples/assets/64501695/62ef3fd1-5695-480d-a217-3fa755b87906)
 ### Example 2
