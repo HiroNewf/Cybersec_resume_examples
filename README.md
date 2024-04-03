@@ -6,9 +6,10 @@ You can copy them from Google Docs using the links below:
 * [Example 2](https://docs.google.com/document/d/14eXB690y8zw6QD_RXbkeXuNjS1IhwcqkCyY0bH1MWHs/edit?usp=sharing)
 * [Example 3](https://docs.google.com/document/d/1sBM2sgOM4ZHq5hI5jiFRUbW3zQQDPgzSzT3ICS9NOHI/edit?usp=sharing)
 ### Example 1
-![image](https://github.com/HiroNewf/Cybersec_resume_examples/assets/64501695/e6cfb0d4-f4ad-457c-a9c2-b8cbb16196de)
+![Untitled](https://github.com/HiroNewf/Cybersec_resume_examples/assets/64501695/bb0182c2-b6e1-4614-a19b-64486b0092dd)
 ### Example 2
-![image](https://github.com/HiroNewf/Cybersec_resume_examples/assets/64501695/85e9d9d9-ea42-4ad4-85fd-2239ba9db125)
+![Untitled](https://github.com/HiroNewf/Cybersec_resume_examples/assets/64501695/e8566033-9844-43da-bf9d-4c85431a7033)
 ### Example 3
-![image](https://github.com/HiroNewf/Cybersec_resume_examples/assets/64501695/f0e6e3b9-4620-4311-9a9b-491e1a953be6)
+![image](https://github.com/HiroNewf/Cybersec_resume_examples/assets/64501695/2e0b72c5-fbfb-4ee5-84bd-6596e0b99eff)
+
 
