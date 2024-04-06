@@ -1,4 +1,4 @@
-# Cybersec_resume_examples
+# Cybersec Resume Examples / Templates
 Three complete IT / Cybersecurity resume for the following job roles: Systems Administration, SOC Analyst, &amp; Penetration Tester.
 
 You can copy them from Google Docs using the links below:
