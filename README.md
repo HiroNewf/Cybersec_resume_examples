@@ -12,7 +12,8 @@ You can copy them from Google Docs using the links below:
 ### Example 2
 ![image](https://github.com/HiroNewf/Cybersec_resume_examples/assets/64501695/922524ff-00c3-4af8-8102-96c855f68bc0)
 ### Example 3
-![image](https://github.com/HiroNewf/Cybersec_resume_examples/assets/64501695/d53fa61c-cb01-40ce-a5f8-2ea64058cfea)
+![image](https://github.com/HiroNewf/Cybersec_resume_examples/assets/64501695/8f6be9fd-ef68-4b75-b645-e41004ee80d3)
+
 
 
 
