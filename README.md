@@ -12,6 +12,7 @@ You can download the docx version from the repo or copy them from Google Docs us
 ### Example 2
 ![image](https://github.com/HiroNewf/Cybersec_resume_examples/assets/64501695/922524ff-00c3-4af8-8102-96c855f68bc0)
 ### Example 3
+*Note: The docx version of this resume has a slightly different font as the one used here is not a part of Word by default*
 ![image](https://github.com/HiroNewf/Cybersec_resume_examples/assets/64501695/8f6be9fd-ef68-4b75-b645-e41004ee80d3)
 
 
