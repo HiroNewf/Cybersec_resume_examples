@@ -4,9 +4,9 @@ Three complete IT / Cybersecurity resume for the following job roles: Systems Ad
 If you want more resume advice then take a look at my full resume guide here: https://hironewf.vercel.app/Resume-Guide
 
 You can download or copy the resumes from the Google Docs links below:
-* [Example 1](https://docs.google.com/document/d/13qCetlrMUYGsPrODYLtEATtjfH37H4yN_LM6l1GbeYo/edit?usp=sharing)
-* [Example 2](https://docs.google.com/document/d/14eXB690y8zw6QD_RXbkeXuNjS1IhwcqkCyY0bH1MWHs/edit?usp=sharing)
-* [Example 3](https://docs.google.com/document/d/1sBM2sgOM4ZHq5hI5jiFRUbW3zQQDPgzSzT3ICS9NOHI/edit?usp=sharing)
+* [Example 1](https://docs.google.com/document/d/1Z6Hvck6qCyla-6rtBp7mhdHUnx9A4wzUypki9mdQIu8/edit?usp=sharing)
+* [Example 2](https://docs.google.com/document/d/1uNtRRJOeVlmgYS7mrtAG5ZMGT537YXCs6SeLWwJRoL8/edit?usp=sharing)
+* [Example 3](https://docs.google.com/document/d/1xN2OaaAgSZhMoQPZqBmC_r4lGRxC3gsvmnbpLAmBv7Y/edit?usp=sharing)
 ### Example 1
 ![eruertu](https://github.com/user-attachments/assets/2baefbac-8d2d-4716-b3b7-60271b08a359)
 ### Example 2
